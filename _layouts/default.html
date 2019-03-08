@@ -7,10 +7,19 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
-    </nav>
+    <section class="page-header">
+      <div class="container">
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+              <h1 class="project-name">Anchore Technical Training Materials</h1>
+              <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+              {% if site.github.is_project_page %}
+                <a href="{{ site.github.repository_url }}" class="btn btn-ghost">View on GitHub</a>
+              {% endif %}
+            </div>
+        </div>
+      </div>
+    </section>
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
