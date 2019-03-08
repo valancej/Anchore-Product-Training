@@ -10,15 +10,15 @@ This project holds the necessary resources needed for hands-on Anchore training,
 
 The following topics are included in this project:
 
-- **Recommended Training Schedule**
-- **Training Presentation Materials**
+- [**Recommended Training Schedule**](https://github.com/valancej/Anchore-Product-Training/tree/master/schedule)
+- [**Training Presentation Materials**](https://github.com/valancej/Anchore-Product-Training/tree/master/presentations)
   - Presentations
     - Installation
     - Configuration
     - Scanning & Policy Evaluations
     - Using the API
     - etc.
-- **Lab Requirements and Materials**
+- [**Lab Requirements and Materials**](https://github.com/valancej/Anchore-Product-Training/tree/master/workshops)
   - Helm Chart
     - Instructions on Public Cloud and Kubernetes use
   - Lab Objectives
@@ -27,7 +27,7 @@ The following topics are included in this project:
     - Scanning & Policy Evaluations
     - Using the API
     - etc.
-- **Objectives for Certification**
+- [**Objectives for Certification**](https://github.com/valancej/Anchore-Product-Training/tree/master/certification)
   - Installation
   - Configuration
   - Scanning & Policy Evaluation
