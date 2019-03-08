@@ -6,7 +6,7 @@ This project holds the necessary resources needed for hands-on Anchore training,
 - **Instructor Led Training**
 - **Educational Reference**
 
-## What is included
+## What's included
 
 The following topics are included in this project:
 
