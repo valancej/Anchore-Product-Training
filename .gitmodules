@@ -1,0 +1,3 @@
+[submodule "schedule/Anchore-Training-Guide"]
+	path = schedule/Anchore-Training-Guide
+	url = https://github.com/valancej/Anchore-Training-Guide.git
