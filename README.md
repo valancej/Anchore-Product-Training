@@ -1,6 +1,6 @@
 # Anchore Training Materials
 
-This project holds the necessary resources needed for hands-on Anchore training, teaching, and proof of completion. The included materials are intented to be used in the following three ways: 
+This project holds the necessary resources needed for hands-on Anchore training, teaching, certification. The included materials are intented to be used in the following three ways: 
 
 - **Self-Paced Learning**
 - **Instructor Led Training**
