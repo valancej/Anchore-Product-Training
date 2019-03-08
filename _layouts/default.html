@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <meta name="viewport" content="width-device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap-4-grid-utils.min.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/style.scss' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
     <section class="page-header">
@@ -20,10 +21,11 @@
         </div>
       </div>
     </section>
-    <h1>{{ page.title }}</h1>
-    <section>
+
+    <section class="main-content">
       {{ content }}
     </section>
+
     <footer class="site-footer">
       <div class="container">
         <p>Anchore</p>
